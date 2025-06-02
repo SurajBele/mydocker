@@ -31,7 +31,7 @@ CMD ["python", "app.py"]
 
 * Create a requirements.txt file: List any Python dependencies your application needs. For example: 
 
-    flask
+        flask
 
 * Create an app.py file: Write your simple HTTP application using a framework like Flask. For example: 
 ```shell
