@@ -29,11 +29,11 @@ CMD ["python", "app.py"]
 
 # How to use it: 
 
-* Create a requirements.txt file: List any Python dependencies your application needs. For example: 
+* Create a [requirements.txt] file: List any Python dependencies your application needs. For example: 
 
         flask
 
-* Create an app.py file: Write your simple HTTP application using a framework like Flask. For example: 
+* Create an [app.py] file: Write your simple HTTP application using a framework like Flask. For example: 
 ```shell
     from flask import Flask
 
